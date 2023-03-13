@@ -1,6 +1,6 @@
 # Site Clínica Médica
 
-## Site criado com Html e css puro o site conciste em uma clíca  Médica com especialistas e totalmente  responsivo !
+## Site criado com Html e css puro o site consinte em uma clínia Médica especializada e totalmente responsiva! 
 
 
 
